@@ -11,3 +11,4 @@ By using this get the information about
 And many more things we can do by using this project like 👍👍👍👍
 On the basis of the comments we can do symmetric analyse and also can able to know the behaviour of different customers.
 For creating the Project there are lots of libraries are used and it will help me to watch the videoes without any add 😂😂😂😂
+  I just posted the file of data how to save it into the csv file because save the data into readable formate is also so important task.
